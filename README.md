@@ -1,5 +1,25 @@
-# 💫 About Me:
-## 👋 About Me<br><br>- 🎓 B.E. Information Science & Engineering (2024–2028) @ VVCE, Mysore<br>- 💻 Passionate about Full-Stack Development, DevOps, AI, and IoT<br>- 🚀 Building scalable, real-world applications with modern technologies<br>- 🐳 Exploring Docker, Kubernetes, CI/CD, and cloud-native architectures<br>- 🤖 Interested in AI agents, automation, and distributed systems<br>- 📱 Developing Flutter, React, FastAPI, and Node.js applications<br>- 🔧 Love solving problems through open-source and hackathons<br>- 🌱 Currently learning System Design, DevOps, and Backend Engineering
+## 👋 Hi, I'm Abhilash
+
+I'm a Computer Science student passionate about building scalable software, AI systems, and cloud-native applications.
+
+Currently, I'm exploring:
+- 🤖 AI Agents & Multi-Agent Systems
+- ☁️ DevOps, Docker & Cloud Deployment
+- 🌐 Full-Stack Development (Next.js, TypeScript, Node.js)
+- 📊 ERP & Business Automation
+- 🔒 Backend Architecture & APIs
+
+I enjoy turning ideas into real products—from mobile apps and web platforms to AI-powered solutions. I'm always learning new technologies and contributing to open-source projects.
+
+### Tech Stack
+- Languages: TypeScript, JavaScript, Python, Kotlin, SQL
+- Frontend: Next.js, React, Tailwind CSS
+- Backend: Node.js, Express
+- Databases: PostgreSQL, MongoDB, Firebase
+- DevOps: Docker, Git, Linux
+- AI: Ollama, LiteLLM, LLM APIs, AI Agents
+
+> "Learning by building."
 
 
 ## 🌐 Socials:
@@ -12,16 +32,9 @@
 ![](https://streak-stats.demolab.com/?user=vulcansmith-dev&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=vulcansmith-dev&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=vulcansmith-dev&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-### ✍️ Random Dev Quote
+### ✍️ Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=vulcansmith-dev&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
 ---
-[![](https://komarev.com/ghpvc/?username=vulcansmith-dev&icon=0&color=0)](https://visitcount.itsvg.in)
-
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
