@@ -11,14 +11,6 @@ Currently, I'm exploring:
 
 I enjoy turning ideas into real products—from mobile apps and web platforms to AI-powered solutions. I'm always learning new technologies and contributing to open-source projects.
 
-### Tech Stack
-- Languages: TypeScript, JavaScript, Python, Kotlin, SQL
-- Frontend: Next.js, React, Tailwind CSS
-- Backend: Node.js, Express
-- Databases: PostgreSQL, MongoDB, Firebase
-- DevOps: Docker, Git, Linux
-- AI: Ollama, LiteLLM, LLM APIs, AI Agents
-
 > "Learning by building."
 
 
